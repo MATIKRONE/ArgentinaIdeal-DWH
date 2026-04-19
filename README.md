@@ -24,4 +24,4 @@ El proyecto se centró en el diseño estructural del negocio, definiendo:
 - Se establecieron las reglas de negocio y la lógica de las consultas SQL necesarias para calcular métricas críticas como el ROI publicitario, el volumen de ventas por región y el ticket promedio.
 
 ---
-**Autor:** Matías Kronemberger | (Enlace a tu LinkedIn]](https://www.linkedin.com/in/matias-kronemberger/)
+**Autor:** Matías Kronemberger | (https://www.linkedin.com/in/matias-kronemberger/)
